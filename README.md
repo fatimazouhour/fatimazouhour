@@ -35,7 +35,6 @@ When I'm not on my computer, I'm outside enjoying nature 🌿
 | [Vision-Guided Robotic Sorting](https://github.com/fatimazouhour/sorting_cv_robot) | Engineering Project & Management |
 | [Robust Indoor-Outdoor Localization](https://github.com/fatimazouhour/robust-indoor-outdoor-localization) | Robotics |
 | [Smart Bin Embedded Controller](https://github.com/fatimazouhour/smart-garbage-bin-MBSD) | Model-Based Software Design |
-| [Quadcopter Flight Control System](https://github.com/fatimazouhour/quadcopter-flight-control) | Personal Project |
 
 ### Mechanical Engineering
 
