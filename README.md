@@ -10,7 +10,7 @@ Seeking a **6-month internship in France starting early 2027** · Internship agr
 
 [Email](mailto:fatimazouhour@outlook.com) · [Academic Email](mailto:fatima.zouhour@ensea.fr) · [LinkedIn](https://linkedin.com/in/fatima-zouhour)
 
-<sub>Transcripts and reference letters available on request.</sub>
+<sub>Transcripts (Full Coursework) and reference letters available on request.</sub>
 
 #### Tools & Technologies
 
