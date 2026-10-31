@@ -2,7 +2,7 @@
 
 # Fatima Zouhour
 
-**MSc Mechatronic Engineering** at Politecnico di Torino  
+**MSc Mechatronic Engineering** (Software Technologies for Automation Track) at Politecnico di Torino  
 **Erasmus+** · École Nationale Supérieure de l'Électronique et de ses Applications (ENSEA) <br/> 
 **BSc Mechanical Engineering** at Politecnico di Torino (95/110)
 
