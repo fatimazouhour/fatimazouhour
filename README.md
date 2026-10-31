@@ -2,10 +2,11 @@
 
 # Fatima Zouhour
 
-**MSc Mechatronic Engineering** · Politecnico di Torino  
-**Erasmus+** · ENSEA, France · **BSc Mechanical Engineering** · PoliTo (95/110)
+**MSc Mechatronic Engineering** at Politecnico di Torino  
+**Erasmus+** · École Nationale Supérieure de l'Électronique et de ses Applications (ENSEA) <br/> 
+**BSc Mechanical Engineering** at Politecnico di Torino (95/110)
 
-Seeking a **6-month internship in France starting early 2027** ·The internship agreement (convention de stage) with ENSEA. Open to relocation
+Seeking a **6-month internship in France starting early 2027** · Internship agreement (convention de stage) with ENSEA. Open to relocation
 
 [Email](mailto:fatimazouhour@outlook.com) · [Academic Email](mailto:fatima.zouhour@ensea.fr) · [LinkedIn](https://linkedin.com/in/fatima-zouhour)
 
@@ -13,9 +14,9 @@ Seeking a **6-month internship in France starting early 2027** ·The internship 
 
 #### Tools & Technologies
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="25" alt="MATLAB" title="MATLAB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" title="Python"/> <img src="https://cdn.simpleicons.org/ros/22314E/white" height="25" alt="ROS" title="ROS / ROS 2"/> <img src="https://raw.githubusercontent.com/cyberbotics/webots/master/resources/icons/core/webots.png" height="25" alt="Webots" title="Webots"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" height="25" alt="Gazebo" title="Gazebo"/> <img src="https://raw.githubusercontent.com/CoppeliaRobotics/coppeliaSimLib/master/imageFiles/icon.png" height="25" alt="CoppeliaSim" title="CoppeliaSim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="25" alt="OpenCV" title="OpenCV"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" alt="Arduino" title="Arduino"/> <img src="https://img.icons8.com/color/96/solidworks.png" height="25" alt="SolidWorks" title="SolidWorks"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg" height="25" alt="Fusion 360" title="Fusion 360"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="Jupyter" title="Jupyter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="25" alt="Linux" title="Linux"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="VS Code" title="VS Code"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="25" alt="MATLAB" title="MATLAB"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="25" alt="Python" title="Python"/> <img src="https://cdn.simpleicons.org/ros/22314E/white" height="25" alt="ROS" title="ROS / ROS 2"/> <img src="https://raw.githubusercontent.com/cyberbotics/webots/master/resources/icons/core/webots.png" height="25" alt="Webots" title="Webots"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gazebo/gazebo-original.svg" height="25" alt="Gazebo" title="Gazebo"/> <img src="https://raw.githubusercontent.com/CoppeliaRobotics/coppeliaSimLib/master/imageFiles/icon.png" height="25" alt="CoppeliaSim" title="CoppeliaSim"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="25" alt="OpenCV" title="OpenCV"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="25" alt="Arduino" title="Arduino"/> <img src="https://img.icons8.com/color/96/solidworks.png" height="25" alt="SolidWorks" title="SolidWorks"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fusion/fusion-original.svg" height="25" alt="Fusion 360" title="Fusion 360"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="25" alt="Jupyter" title="Jupyter"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="25" alt="Ubuntu" title="Ubuntu"/> <img src="https://raw.githubusercontent.com/microsoft/WSL/master/Images/Square44x44Logo.altform-unplated_targetsize-256.png" height="25" alt="WSL" title="WSL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="Git" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="25" alt="VS Code" title="VS Code"/>
 
-<sub>Also: Simulink · Stateflow · Simscape · AUTOSAR · System Identification · VHDL · Intel Quartus · ROS 1/2 · Machine Learning · Signal Processing · CAD · CNC</sub>
+<sub>Also: Simulink · Stateflow · Simscape · AUTOSAR · System Identification · VHDL · Intel Quartus · ROS & ROS2 · Machine Learning · Signal Processing · CAD · CNC</sub>
 
 ***Languages:*** Arabic (Native) · English (C1) · Italian (A2) · French (Actively Learning)
 
