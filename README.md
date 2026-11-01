@@ -1,4 +1,5 @@
-<div align="center">
+ Processes |
+| [Helical Gearbox Design Verification](https://github.com/fatimazouhour/helical-gearbox-design-verification) | Machine Design |<div align="center">
 
 # Fatima Zouhour
 
@@ -10,7 +11,7 @@ Seeking a **6-month internship in France starting early 2027** · Internship agr
 
 [Email](mailto:fatimazouhour@outlook.com) · [Academic Email](mailto:fatima.zouhour@ensea.fr) · [LinkedIn](https://linkedin.com/in/fatima-zouhour)
 
-<sub>Transcripts (Full Coursework) and reference letters available on request.</sub>
+<sub>Transcripts (Full Coursework), reference letters, and language certificates  available on request.</sub>
 
 #### Tools & Technologies
 
@@ -20,9 +21,8 @@ Seeking a **6-month internship in France starting early 2027** · Internship agr
 
 ***Languages:*** Arabic (Native) · English (C1) · Italian (A2) · French (Actively Learning)
 
-Multitasker, curious, I like learning new things. Currently a beginner at chess.<br/>
-When I'm not on my computer, I'm outside enjoying nature 🌿
-
+Multitasker, curious and artist-ish, I like learning new things. Currently a beginner at chess.<br/>
+When I'm not on my computer, I'm outside enjoying nature 🌿 or doing some graphite (occasionally charcoal or acrylic) art on the side.
 </div>
 
 <details>
@@ -41,8 +41,7 @@ When I'm not on my computer, I'm outside enjoying nature 🌿
 | Project | Context |
 |---|---|
 | [Agricultural Machinery Plant Design](https://github.com/fatimazouhour/agri-machinery-industrial-plant-design) | Industrial Plants & Safety |
-| [Closed-Die Forging Simulation](https://github.com/fatimazouhour/closed-die-forging-qform) | Manufacturing Processes |
-| [Helical Gearbox Design Verification](https://github.com/fatimazouhour/helical-gearbox-design-verification) | Machine Design |
+| [Closed-Die Forging Simulation](https://github.com/fatimazouhour/closed-die-forging-qform) | Manufacturing|
 
 </details>
 
