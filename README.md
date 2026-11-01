@@ -1,6 +1,4 @@
- Processes |
-| [Helical Gearbox Design Verification](https://github.com/fatimazouhour/helical-gearbox-design-verification) | Machine Design |<div align="center">
-
+<div align="center">
 # Fatima Zouhour
 
 **MSc Mechatronic Engineering** (Software Technologies for Automation) at Politecnico di Torino  
@@ -42,6 +40,7 @@ When I'm not on my computer, I'm outside enjoying nature 🌿 or doing some grap
 |---|---|
 | [Agricultural Machinery Plant Design](https://github.com/fatimazouhour/agri-machinery-industrial-plant-design) | Industrial Plants & Safety |
 | [Closed-Die Forging Simulation](https://github.com/fatimazouhour/closed-die-forging-qform) | Manufacturing|
+| [Helical Gearbox Design Verification](https://github.com/fatimazouhour/helical-gearbox-design-verification) | Machine Design |
 
 </details>
 
