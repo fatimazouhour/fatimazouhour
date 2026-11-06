@@ -3,7 +3,7 @@
 # Fatima Zouhour
 
 **MSc Mechatronic Engineering** (Software Technologies for Automation) at Politecnico di Torino  
-**Erasmus+** · École Nationale Supérieure de l'Électronique et de ses Applications (ENSEA) <br/> 
+**Erasmus+** · École Nationale Supérieure de l'Électronique et de ses Applications (ENSEA) for A.Y. 2026/2027 <br/> 
 **BSc Mechanical Engineering** at Politecnico di Torino (95/110)
 
 Seeking a **6-month internship in France starting early 2027** · Internship agreement (convention de stage) with ENSEA. Open to relocation
